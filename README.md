@@ -33,12 +33,12 @@ Name (Nombre)
 ### Lenguaje: 
 Python 
 ### Librerías:
-Pandas 
-numpy 
-matplotlib
-pyplot 
-seaborn 
-scipy.stats 
+Pandas, 
+numpy, 
+matplotlib,
+pyplot, 
+seaborn, 
+scipy.stats.
 
 ## Proceso del Proyecto
 
